@@ -64,6 +64,14 @@ response
 
 request `api/usage/ [POST]`
 
+- удаление отдельных записей по обработанным запросам в заданном промежутке времени
+
+request `api/usage/ [POST]`
+```
+  "from_date": "MM:DD:hh:mm:ss",
+  "until_date": "MM:DD:hh:mm:ss"
+```
+
 ## Установка и запуск.
 Для запуска требуются [docker](https://docs.docker.com/get-docker/) и [docker compose](https://docs.docker.com/compose/install/).
 Клонировать репозиторий:
