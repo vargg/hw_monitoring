@@ -1,0 +1,9 @@
+Django==3.2.8
+djangorestframework==3.12.4
+gunicorn==20.1.0
+psutil==5.8.0
+GPUtil==1.4.0
+django_redis==5.0.0
+django_fakeredis==0.1.2
+pytest_django==4.4.0
+pytest==6.2.5
