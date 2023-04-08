@@ -1,7 +1,5 @@
 # HW_monitor.
 
-http://178.154.228.102/
-
 ## Стэк
 [Python](https://www.python.org/) v.3.9, [Django](https://www.djangoproject.com/) v.3.2.8, [Django REST framework](https://www.django-rest-framework.org/) v.3.12.4, [Redis](https://redis.io/documentation) v.6.2, [Docker](https://www.docker.com/) v.20.10.8.
 
